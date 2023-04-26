@@ -8,7 +8,7 @@ Welcome to our Brain-like computation and intelligence project !
 
 Here the organisation of our repository
 
-* \textbf{part1_1.ipynb} : Linear model (Ridge, least squeare, with PCA, with cross validation) from _Week 5_
+* <b>part1_1.ipynb<b> : Linear model (Ridge, least squeare, with PCA, with cross validation) from _Week 5_
 * \textbf{part1_2.ipynb} : Task-driven modeling approach (ResNet50) from _Week 5_
 * \textbf{part2.ipynb} : data-driven approach (Shallow CNN) from _Week 6_
 * \textbf{part2.ipynb} : data-driven approach (Shallow CNN) from _Week 6_
