@@ -4,7 +4,7 @@
 ### Lena Bribosia de Sepibus, Jade Therras
 ---
 
-Welcome to our Brain-like computation and intelligence project !
+## Welcome to our Brain-like computation and intelligence project !
 
 Here the organisation of our repository
 
